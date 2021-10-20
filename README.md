@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @paulsmitharts
-- 👀 I have many, many years experience in database development and am working toward making the move to Data Architecture and Data Science. I also have an interest in creative coding.
+- 👀 I have many, many years experience in database development and am working toward making the move to Data Architecture and Data Science. I also have an interest in creative coding and generative design.
 - 🌱 I’m currently learning R and Python and all things data science.
 - 💞️ I’m looking to collaborate on data science and creative coding projects.
 - 📫 You can reach me at paulsmithx@gmail.com
